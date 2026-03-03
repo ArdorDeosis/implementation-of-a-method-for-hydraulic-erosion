@@ -1,7 +1,5 @@
 My bachelor's thesis about hydraulic erosion.
 
-Find more procedural generation content at [procgen.space](https://procgen.space/resources)!
-
 # Implementation of a Method for Hydraulic Erosion
 
 [![Static Badge](https://img.shields.io/badge/download-PDF-orange)](https://ardordeosis.github.io/implementation-of-a-method-for-hydraulic-erosion/thesis-beyer.pdf)
